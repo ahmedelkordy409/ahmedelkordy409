@@ -1,6 +1,6 @@
 ### <samp>&gt; Hi there, I'm <a href="#" target="_blank">Ahmed Elkordy</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([http://bit.ly/3gCm7OA)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([http://bit.ly/3gCm7OA)
 [![Upwork Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.upwork.com/freelancers/~01eb8e3b3283101442)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]([https://twitter.com/GKassym](https://twitter.com/ahmedelkordy204))
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]([https://t.me/ahmedelkordy409])
