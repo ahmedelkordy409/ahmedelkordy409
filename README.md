@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=&hide_border=true)](https://git.io/streak-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 <!---
