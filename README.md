@@ -38,10 +38,4 @@ Looking for my qualifications and work experience? Check out my resume!
 
 
 
-</br>
 
-📈 **My GitHub Stats:**
-<!--- You can keep this section, which displays your GitHub stats using GitHub Readme Stats. It gives a nice overview of your GitHub activity. -->
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedelkordy409&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
